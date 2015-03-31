@@ -1,4 +1,5 @@
 #encoding=utf8
+# from book Programming Collective Intelligence
 # 计算两个人的相似度
 
 from math import sqrt
